@@ -41,7 +41,7 @@ maintainers = [
     {name = "Sourabh Desai", email = "sourabh@llamaindex.ai"},
 ]
 dependencies = [
-    "llama-index-core>=0.12.0,<0.13",
+    "llama-index-core>=0.12.0,<0.15",
     "llama-index-embeddings-openai>=0.3.1,<0.4",
     "llama-index-llms-openai>=0.4.0,<0.5",
 ]
