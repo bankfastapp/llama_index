@@ -38,7 +38,7 @@ dependencies = [
     "azure-ai-agents >= 1.0.0b3",
     "azure-identity",
     "openai>=1.14.0",
-    "llama-index-core>=0.12.18,<0.13",
+    "llama-index-core>=0.12.18,<0.15",
 ]
 
 [tool.codespell]
